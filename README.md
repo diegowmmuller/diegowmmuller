@@ -2,6 +2,7 @@
 
 Sou estudante de  **Ciência da Computação**.  
 Atualmente desenvolvendo habilidades em **Java**, **Python**, **JavaScript**, **HTML** e **CSS** 
+---
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/diegowmmuller)
 
 ---
